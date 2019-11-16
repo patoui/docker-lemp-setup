@@ -1,2 +1,2 @@
 # docker-lemp-setup
-Docker files for setting up LEMP with No
+Docker files for setting up LEMP with Node
